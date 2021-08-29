@@ -1,2 +1,2 @@
-emoji
-ordered
+* emoji
+* ordered
